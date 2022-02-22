@@ -1,0 +1,105 @@
+[ {
+  "username" : "laq20220002@ju.edu.com",
+  "password" : "laq1855",
+  "type" : "admin"
+}, {
+  "username" : "sah20220003@ju.edu.com",
+  "password" : "saif1234",
+  "type" : "admin"
+}, {
+  "username" : "hio20220004@ju.edu.com",
+  "password" : "hind1234",
+  "type" : "admin"
+}, {
+  "username" : "fai20220005@ju.edu.com",
+  "password" : "fai4741",
+  "type" : "teacher"
+}, {
+  "username" : "laj20220006@ju.edu.com",
+  "password" : "lama12345",
+  "type" : "teacher"
+}, {
+  "username" : "ruk20220007@ju.edu.com",
+  "password" : "ruba1234",
+  "type" : "teacher"
+}, {
+  "username" : "ala20220008@ju.edu.com",
+  "password" : "ala4602",
+  "type" : "teacher"
+}, {
+  "username" : "huj20220009@ju.edu.com",
+  "password" : "huj2601",
+  "type" : "teacher"
+}, {
+  "username" : "san20220010@ju.edu.com",
+  "password" : "san5976",
+  "type" : "teacher"
+}, {
+  "username" : "ayb20220011@ju.edu.com",
+  "password" : "aysha1234",
+  "type" : "student"
+}, {
+  "username" : "hih20220012@ju.edu.com",
+  "password" : "hiba1234",
+  "type" : "student"
+}, {
+  "username" : "alq20220013@ju.edu.com",
+  "password" : "alq5755",
+  "type" : "student"
+}, {
+  "username" : "aho20220014@ju.edu.com",
+  "password" : "aho3935",
+  "type" : "student"
+}, {
+  "username" : "mah20220015@ju.edu.com",
+  "password" : "mah1197",
+  "type" : "student"
+}, {
+  "username" : "sum20220016@ju.edu.com",
+  "password" : "sum1462",
+  "type" : "student"
+}, {
+  "username" : "ahl20220017@ju.edu.com",
+  "password" : "ahl2225",
+  "type" : "student"
+}, {
+  "username" : "muy20220018@ju.edu.com",
+  "password" : "muy2508",
+  "type" : "student"
+}, {
+  "username" : "moa20220019@ju.edu.com",
+  "password" : "moa1755",
+  "type" : "student"
+}, {
+  "username" : "dae20220020@ju.edu.com",
+  "password" : "dae3485",
+  "type" : "student"
+}, {
+  "username" : "ram20220021@ju.edu.com",
+  "password" : "ram2394",
+  "type" : "student"
+}, {
+  "username" : "mas20220022@ju.edu.com",
+  "password" : "mas4039",
+  "type" : "student"
+}, {
+  "username" : "tas20220023@ju.edu.com",
+  "password" : "talal1234",
+  "type" : "student"
+}, {
+  "username" : "tag20220024@ju.edu.com",
+  "password" : "tag3695",
+  "type" : "student"
+}, {
+  "username" : "ibs20220025@ju.edu.com",
+  "password" : "ibraheem1234",
+  "type" : "student"
+}, {
+  "username" : "daf20220027@ju.edu.com",
+  "password" : "dana1234",
+  "type" : "student"
+}, {
+  "username" : "sik20220028@ju.edu.com",
+  "password" : "sik4395",
+  "type" : "student"
+} ]

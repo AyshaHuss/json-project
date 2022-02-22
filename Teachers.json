@@ -1,0 +1,60 @@
+[ {
+  "id" : "20220005",
+  "firstName" : "Faris",
+  "lastName" : "Ismaeel",
+  "username" : "fai20220005@ju.edu.com",
+  "password" : "fai4741",
+  "email" : "f.ismaeel85@gmail.com",
+  "type" : "teacher",
+  "courses" : [ "Math" ]
+}, {
+  "id" : "20220006",
+  "firstName" : "Lama",
+  "lastName" : "Jameel",
+  "address" : {
+    "city" : "Amman",
+    "streetName" : "Ibrahim Qattan",
+    "buildingNumber" : 12
+  },
+  "username" : "laj20220006@ju.edu.com",
+  "password" : "lama1234",
+  "email" : "l.jameel@yahoo.com",
+  "type" : "teacher",
+  "courses" : [ "Arabic 99", "Arabic 100" ]
+}, {
+  "id" : "20220007",
+  "firstName" : "Ruba",
+  "lastName" : "Kamal",
+  "username" : "ruk20220007@ju.edu.com",
+  "password" : "ruba1234",
+  "email" : "ruba.kamal@yahoo.com",
+  "type" : "teacher",
+  "courses" : [ "Network 1", "Network 2" ]
+}, {
+  "id" : "20220008",
+  "firstName" : "Ali",
+  "lastName" : "Amer",
+  "username" : "ala20220008@ju.edu.com",
+  "password" : "ala4602",
+  "email" : "ali.amer@yahoo.com",
+  "type" : "teacher",
+  "courses" : [ "English 99", "English 100" ]
+}, {
+  "id" : "20220009",
+  "firstName" : "Hussam",
+  "lastName" : "Jamal",
+  "username" : "huj20220009@ju.edu.com",
+  "password" : "huj2601",
+  "email" : "hus.jamal@yah",
+  "type" : "teacher",
+  "courses" : [ "Finance" ]
+}, {
+  "id" : "20220010",
+  "firstName" : "Sara",
+  "lastName" : "Nouh",
+  "username" : "san20220010@ju.edu.com",
+  "password" : "san5976",
+  "email" : "sara_nouh@yahoo.com",
+  "type" : "teacher",
+  "courses" : [ "Art", "Graphics" ]
+} ]

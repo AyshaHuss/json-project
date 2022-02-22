@@ -1,0 +1,214 @@
+[ {
+  "id" : "20220011",
+  "firstName" : "Aysha",
+  "lastName" : "Bloukh",
+  "address" : {
+    "city" : "Amman",
+    "streetName" : "Omar Kalimat",
+    "buildingNumber" : 19
+  },
+  "username" : "ayb20220011@ju.edu.com",
+  "password" : "aysha1234",
+  "email" : "bloukhaysha@gmail.com",
+  "type" : "student",
+  "courses" : {
+    "Math" : 77,
+    "Art" : 56,
+    "English 100" : 80
+  }
+}, {
+  "id" : "20220012",
+  "firstName" : "Hiba",
+  "lastName" : "Hussien",
+  "address" : {
+    "city" : "Irbid",
+    "streetName" : "Al-hussun",
+    "buildingNumber" : 5
+  },
+  "username" : "hih20220012@ju.edu.com",
+  "password" : "hiba1234",
+  "email" : "h.huss1997@yahoo.com",
+  "type" : "student",
+  "courses" : {
+    "Art" : 75,
+    "Math" : 49,
+    "Network 1" : 90
+  }
+}, {
+  "id" : "20220013",
+  "firstName" : "Alaa",
+  "lastName" : "Qadi",
+  "username" : "alq20220013@ju.edu.com",
+  "password" : "alq5755",
+  "email" : "ala.qadi@yahoo.com",
+  "type" : "student",
+  "courses" : {
+    "Arabic 99" : 62,
+    "English 99" : 65,
+    "Art" : 69
+  }
+}, {
+  "id" : "20220014",
+  "firstName" : "Ahmad",
+  "lastName" : "Omar",
+  "address" : {
+    "city" : "Amman",
+    "streetName" : "Ibrahim Qattan",
+    "buildingNumber" : 5
+  },
+  "username" : "aho20220014@ju.edu.com",
+  "password" : "aho3935",
+  "email" : "ahmad.omar@yahoo.com",
+  "type" : "student",
+  "courses" : {
+    "Arabic 99" : 60,
+    "English 99" : 90,
+    "Network 1" : 44
+  }
+}, {
+  "id" : "20220015",
+  "firstName" : "Mariam",
+  "lastName" : "Hussam",
+  "username" : "mah20220015@ju.edu.com",
+  "password" : "mah1197",
+  "email" : "mar.hussam@yahoo.com",
+  "type" : "student",
+  "courses" : {
+    "English 100" : 65,
+    "Math" : 92,
+    "Finance" : 0
+  }
+}, {
+  "id" : "20220016",
+  "firstName" : "Sundos",
+  "lastName" : "Marwan",
+  "username" : "sum20220016@ju.edu.com",
+  "password" : "sum1462",
+  "email" : "s.marwan@yahoo.com",
+  "type" : "student",
+  "courses" : {
+    "Arabic 99" : 88,
+    "English 99" : 40,
+    "Network 1" : 38
+  }
+}, {
+  "id" : "20220017",
+  "firstName" : "Ahmad",
+  "lastName" : "Laith",
+  "username" : "ahl20220017@ju.edu.com",
+  "password" : "ahl2225",
+  "email" : "ahmad.laith@yahoo.com",
+  "type" : "student",
+  "courses" : { }
+}, {
+  "id" : "20220019",
+  "firstName" : "Mohammad",
+  "lastName" : "Abed",
+  "username" : "moa20220019@ju.edu.com",
+  "password" : "moa1755",
+  "email" : "mohammad.aded@yahoo.com",
+  "type" : "student",
+  "courses" : {
+    "English 100" : 46,
+    "Art" : 40,
+    "Graphics" : 77
+  }
+}, {
+  "id" : "20220020",
+  "firstName" : "Dalia",
+  "lastName" : "Emad",
+  "username" : "dae20220020@ju.edu.com",
+  "password" : "dae3485",
+  "email" : "dalia.emad@gmail.com",
+  "type" : "student",
+  "courses" : { }
+}, {
+  "id" : "20220021",
+  "firstName" : "Raja",
+  "lastName" : "Mahmoud",
+  "username" : "ram20220021@ju.edu.com",
+  "password" : "ram2394",
+  "email" : "raja.m.1995@yahoo.com",
+  "type" : "student",
+  "courses" : { }
+}, {
+  "id" : "20220022",
+  "firstName" : "Maen",
+  "lastName" : "Salim",
+  "username" : "mas20220022@ju.edu.com",
+  "password" : "mas4039",
+  "email" : "maen.s97@gmail.com",
+  "type" : "student",
+  "courses" : {
+    "Arabic 99" : 48,
+    "English 99" : 45,
+    "Art" : 90
+  }
+}, {
+  "id" : "20220023",
+  "firstName" : "Talal",
+  "lastName" : "Sadiq",
+  "username" : "tas20220023@ju.edu.com",
+  "password" : "talal1234",
+  "email" : "talal_sadiq@gmail.com",
+  "type" : "student",
+  "courses" : {
+    "Arabic 100" : 82,
+    "English 100" : 98,
+    "Network 1" : 67,
+    "Art" : 60
+  }
+}, {
+  "id" : "20220024",
+  "firstName" : "Tasneem",
+  "lastName" : "Ghassan",
+  "username" : "tag20220024@ju.edu.com",
+  "password" : "tag3695",
+  "email" : "tasneem.gh@gmail.com",
+  "type" : "student",
+  "courses" : {
+    "Art" : 38,
+    "Graphics" : 62,
+    "Finance" : 0,
+    "Network 2" : 0
+  }
+}, {
+  "id" : "20220025",
+  "firstName" : "Ibrahim",
+  "lastName" : "Samir",
+  "username" : "ibs20220025@ju.edu.com",
+  "password" : "ibraheem1234",
+  "email" : "i.samir@yahoo.com",
+  "type" : "student",
+  "courses" : {
+    "Arabic 100" : 95,
+    "Art" : 20,
+    "Math" : 35
+  }
+}, {
+  "id" : "20220027",
+  "firstName" : "Dana",
+  "lastName" : "Fuad",
+  "address" : {
+    "city" : "Amman",
+    "streetName" : "Omar Kalimat",
+    "buildingNumber" : 19
+  },
+  "username" : "daf20220027@ju.edu.com",
+  "password" : "dana1234",
+  "email" : "d.fuad@gmail.com",
+  "type" : "student",
+  "courses" : {
+    "Arabic 100" : 0,
+    "Arabic 99" : 0
+  }
+}, {
+  "id" : "20220028",
+  "firstName" : "Sinan",
+  "lastName" : "Khalid",
+  "username" : "sik20220028@ju.edu.com",
+  "password" : "sik4395",
+  "email" : "sinan.khalid@yahoo.com",
+  "type" : "student",
+  "courses" : { }
+} ]

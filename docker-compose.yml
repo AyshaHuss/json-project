@@ -1,0 +1,14 @@
+version: "3.3"
+services:
+  my-sys1:
+    build: .
+    ports:
+      - "8080"
+    volumes:
+      - C:/USers/Home/Desktop/final-project/jsp/json-files/:/usr/local/tomcat/json/
+  my-sys2:
+    build: .
+    ports:
+      - "8080"
+    volumes:
+      - C:/USers/Home/Desktop/final-project/jsp/json-files/:/usr/local/tomcat/json/

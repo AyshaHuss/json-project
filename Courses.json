@@ -1,0 +1,77 @@
+[ {
+  "courseName" : "Arabic 99",
+  "teacherId" : "20220006",
+  "maxStdNum" : 4,
+  "students" : {
+    "alq20220013@ju.edu.com" : 88
+  }
+}, {
+  "courseName" : "Arabic 100",
+  "teacherId" : "20220006",
+  "maxStdNum" : 2,
+  "students" : {
+    "ibs20220025@ju.edu.com" : 95,
+    "tas20220023@ju.edu.com" : 82
+  }
+}, {
+  "courseName" : "English 99",
+  "teacherId" : "20220008",
+  "maxStdNum" : 4,
+  "students" : {
+    "alq20220013@ju.edu.com" : 0
+  }
+}, {
+  "courseName" : "English 100",
+  "teacherId" : "20220008",
+  "maxStdNum" : 4,
+  "students" : {
+    "tas20220023@ju.edu.com" : 98,
+    "mah20220015@ju.edu.com" : 65
+  }
+}, {
+  "courseName" : "Math",
+  "teacherId" : "20220005",
+  "maxStdNum" : 4,
+  "students" : {
+    "ibs20220025@ju.edu.com" : 84,
+    "hih20220012@ju.edu.com" : 65,
+    "ayb20220011@ju.edu.com" : 77,
+    "mah20220015@ju.edu.com" : 92
+  }
+}, {
+  "courseName" : "Network 1",
+  "teacherId" : "20220007",
+  "maxStdNum" : 4,
+  "students" : {
+    "tas20220023@ju.edu.com" : 67,
+    "ayb20220011@ju.edu.com" : 75,
+    "hih20220012@ju.edu.com" : 90
+  }
+}, {
+  "courseName" : "Network 2",
+  "teacherId" : "20220007",
+  "maxStdNum" : 4,
+  "students" : { }
+}, {
+  "courseName" : "Finance",
+  "teacherId" : "20220009",
+  "maxStdNum" : 5,
+  "students" : {
+    "mah20220015@ju.edu.com" : 0
+  }
+}, {
+  "courseName" : "Art",
+  "teacherId" : "20220010",
+  "maxStdNum" : 10,
+  "students" : {
+    "ibs20220025@ju.edu.com" : 0,
+    "hih20220012@ju.edu.com" : 0,
+    "alq20220013@ju.edu.com" : 0,
+    "ayb20220011@ju.edu.com" : 0
+  }
+}, {
+  "courseName" : "Graphics",
+  "teacherId" : "20220010",
+  "maxStdNum" : 3,
+  "students" : { }
+} ]

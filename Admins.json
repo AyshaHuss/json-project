@@ -1,0 +1,30 @@
+[ {
+  "id" : "20220002",
+  "firstName" : "Lana",
+  "lastName" : "Qasim",
+  "username" : "laq20220002@ju.edu.com",
+  "password" : "laq1855",
+  "email" : "lana.qasim@yahoo.com",
+  "type" : "admin"
+}, {
+  "id" : "20220003",
+  "firstName" : "Saif",
+  "lastName" : "Hakeem",
+  "username" : "sah20220003@ju.edu.com",
+  "password" : "saif1234",
+  "email" : "saif_hakeem@yahoo.com",
+  "type" : "admin"
+}, {
+  "id" : "20220004",
+  "firstName" : "Hind",
+  "lastName" : "Omar",
+  "address" : {
+    "city" : "Amman",
+    "streetName" : "Makkah Street",
+    "buildingNumber" : 11
+  },
+  "username" : "hio20220004@ju.edu.com",
+  "password" : "hind1234",
+  "email" : "hind.omar@yahoo.com",
+  "type" : "admin"
+} ]
